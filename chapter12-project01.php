@@ -2,7 +2,6 @@
 
 include 'travel-data.php';  
 
-
 asort($continents);
 asort($countries);
 
